@@ -1,0 +1,31 @@
+#box1{
+    color: brown;
+background-color: darkgoldenrod;
+width: 800px;
+height: 450px;
+display: flex;
+
+}
+
+
+
+.box2{
+    background-color: rgb(126, 126, 244);
+    width: 100px;
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    
+    
+}
+
+.box3{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+
+}
